@@ -4,11 +4,11 @@ title: A few words on secret writing.
 author: "BY EDGAR A.POE"
 editor: Gabrielle Dean
 rights: Public Domain
-source: [Edgar Allan Poe Society of Baltimore](https://www.eapoe.org/)
-publication-date: 2017 (1841)
+source: Edgar Allan Poe Society of Baltimore
+publication-date: "2017 (1841)"
 ---
 
-##Poe's first article on cryptography, as published in *Graham's Magazine*, July 1941.
+## Poe's first article on cryptography, as published in *Graham's Magazine*, July 1941.
 
 As we can scarcely imagine a time when there did not exist a necessity, or at least a desire, of transmitting information from one individual to another, in such manner as to elude general comprehension; so we may well suppose the practice of writing in cipher to be of great antiquity. De La Guilletiere, therefore, who, in his “Lacedæmon Ancient and Modern,” maintains that the Spartans were the inventors of Cryptography, is obviously in error. He speaks of the scytala as being the origin of the art; but he should only have cited it as one of its earliest instances, so far as our records extend. The scytala were two wooden cylinders, precisely similar in all respects. The general of an army, in going upon any expedition, received from the ephori one of these cylinders, while the other remained in their possession. If either party had occasion to communicate with the other, a narrow strip of parchment was so wrapped around the scytala that the edges of the skin fitted accurately each to each. The writing was then inscribed longitudinally, and the epistle unrolled and dispatched. If, by mischance, the messenger was intercepted, the letter proved unintelligible to his captors. If he reached his destination safely, however, the party addressed had only to involve the second cylinder in the strip to decipher the inscription. The transmission to our own times of this obvious mode of cryptography is due, probably, to the historical uses of the scytala, rather than to anything else. Similar means of secret intercommunication must have existed almost contemporaneously with the invention of letters.
 
