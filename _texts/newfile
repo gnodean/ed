@@ -1,1 +1,14 @@
-This is a new file.
+---
+layout: narrative
+title: "newfile"
+author: Nemo
+editor: Gabrielle
+rights: Public Domain
+source: EAP Society
+publication-date: 20xx
+---
+
+---
+
+## Editor's note
+this is a newfile
