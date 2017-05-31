@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: A Few Words on Secret Writing
-author: "BY EDGAR A.POE"
+author: By Edgar A. Poe
 editor: Gabrielle Dean
 rights: Public Domain
 source: Edgar Allan Poe Society of Baltimore
