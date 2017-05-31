@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: A few words on secret writing.
+title: A Few Words on Secret Writing
 author: "BY EDGAR A.POE"
 editor: Gabrielle Dean
 rights: Public Domain
